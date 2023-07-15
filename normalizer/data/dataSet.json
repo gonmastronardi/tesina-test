@@ -1,0 +1,1509 @@
+[
+    {
+        "properties": {
+            "mainCamera": "12 Mpx",
+            "name": "Apple iPhone 12 mini (64 GB) - (PRODUCT)RED",
+            "operatingSystem": "iOS",
+            "price": "$180.899",
+            "processor": "Apple A14 Bionic",
+            "ramMemory": "4 GB",
+            "screenSize": "5.4 \"",
+            "storageMemory": "64 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/apple-iphone-12-mini-64-gb-productred/p/MLA16163667?pdp_filters=category:MLA1055#searchVariation=MLA16163667&position=3&search_layout=stack&type=product&tracking_id=8c05bfac-7d2a-41a3-890a-5f556b233654"
+    },
+    {
+        "properties": {
+            "battery": "2815 mAh",
+            "mainCamera": "12 Mpx",
+            "name": "Apple iPhone 12 Pro (128 GB) - Plata",
+            "operatingSystem": "iOS",
+            "price": "$274.990",
+            "processor": "Apple A14 Bionic",
+            "ramMemory": "6 GB",
+            "screenSize": "6.1 \"",
+            "speedProcessor": "2x3.1 GHz Firestorm, 4x1.8 GHz Icestorm",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/apple-iphone-12-pro-128-gb-plata/p/MLA16163680?pdp_filters=category:MLA1055#searchVariation=MLA16163680&position=5&search_layout=stack&type=product&tracking_id=8c05bfac-7d2a-41a3-890a-5f556b233654"
+    },
+    {
+        "properties": {
+            "battery": "3190 mAh",
+            "mainCamera": "12 Mpx",
+            "name": "iPhone 11 Pro 512 GB Gris espacial",
+            "operatingSystem": "iOS",
+            "price": "$275.999",
+            "processor": "Apple A13 Bionic",
+            "ramMemory": "4 GB",
+            "screenSize": "5.8 \"",
+            "speedProcessor": "2x2.65 GHz Lightning, 4x1.8 GHz Thunder",
+            "storageMemory": "512 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/iphone-11-pro-512-gb-gris-espacial/p/MLA15150721?pdp_filters=category:MLA1055#searchVariation=MLA15150721&position=7&search_layout=stack&type=product&tracking_id=8c05bfac-7d2a-41a3-890a-5f556b233654"
+    },
+    {
+        "properties": {
+            "battery": "4000 mA",
+            "mainCamera": "64 Mpx",
+            "name": "Celular Libre Samsung Galaxy S21 Blanco SM-G991BZWLARO",
+            "operatingSystem": "Sistema Operativo\n                                                    \n                                                        \n                                                        \n                                                            \n                                                                \n                                                            \n                                                            Sistema Operativo\n                                                            \n                                                                El sistema operativo es el programa básico de una computadora y sobre el cuál el resto de los programas corren.\n                                                            \n                                                        \n                                                    \n                                                \n                                                Android",
+            "price": "$124.999",
+            "processor": "Octa Core",
+            "ramMemory": "Memoria RAM\n                                            \t\t\t\n                                \t\t\t\t\t\t\t\n                                \t\t\t\t\t\t\t\n                                \t\t\t\t\t\t\t\t\n                                \t\t\t\t\t\t\t\t\t\n                                \t\t\t\t\t\t\t\t\n                                \t\t\t\t\t\t\t\tMemoria RAM\n                                \t\t\t\t\t\t\t\t\n                                \t\t\t\t\t\t\t\t\tLa memoria RAM es el lugar dónde se almacenan los programas que se están ejecutando. A mayor cantidad de GB de memoria, mejor será el rendimiento y velocidad del sistema. 4GB es una cantidad suficiente para el usuario promedio.\n                                \t\t\t\t\t\t\t\t\n                                \t\t\t\t\t\t\t\n                                              \t\t\t\n                                          \t\t\t\n                                            \t\t8\n                                            \t\tGB",
+            "screenSize": "6.2\"",
+            "speedProcessor": "2900 MHz",
+            "storageMemory": "128\n                                            \t\t\tGB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.garbarino.com/producto/celular-libre-samsung-galaxy-s21-blanco-sm-g991bzwlaro/6ce02aeccf"
+    },
+    {
+        "properties": {
+            "battery": "5000 mA",
+            "mainCamera": "64 Mpx",
+            "name": "Celular Libre Samsung Galaxy A32 Negro 128 GB",
+            "operatingSystem": "Android",
+            "price": "$44.999",
+            "processor": "Octa",
+            "ramMemory": "4 GB",
+            "screenSize": "6.4\"",
+            "speedProcessor": "200 MHz",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.garbarino.com/producto/celular-libre-samsung-galaxy-a32-negro-128-gb/075f8a11a9"
+    },
+    {
+        "properties": {
+            "battery": "Li-Ion 4800",
+            "mainCamera": "12 MP + 64 MP + 12 MP",
+            "memory": "128GB",
+            "name": "Samsung Galaxy S21 Plus con Precio Exclusivo",
+            "operatingSystem": "Android 11",
+            "price": "$139.999",
+            "processor": "Octa Core 2.9",
+            "ramMemory": "8GB",
+            "screenSize": "6.7",
+            "speedProcessor": "Octa Core 2.9"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/samsung-galaxy-s21-plus-con-precio-exclusivo.html"
+    },
+    {
+        "properties": {
+            "battery": "Batería: 4000 mAh",
+            "mainCamera": "Cámara: Triple, 12MP+64MP+12MP",
+            "name": "Samsung Galaxy S20 en Argentina\nLanzamiento 3 de marzo 2020\nPantalla: 6.2″, 1440 x 3200 pixels\nProcesador: Snapdragon 865 2.84GHz / Exynos 990 2.73GHz\nRAM: 8GB/12GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 12MP+64MP+12MP\nBatería: 4000 mAh\nsistema: Android 10\nPerfil: 7.9 mm\nPeso: 163 g\n\n\n\n\nGalaxy S20\n\nMostrando todos los resultados 3\n\n\nFilters\t\t\n\n\n\n\n\n\n\nOrdenar por popularidad\nOrdenar por calificación media\nOrdenar por los últimos\nOrdenar por precio: bajo a alto\nOrdenar por precio: alto a bajo\n\n\n\n            \n\n\nGalaxy S20Samsung Galaxy S20 G980f 128Gb 12gb Ram Cloud PinkGalaxy S20Samsung Galaxy S20 G980f 128Gb 12gb Ram Cloud Pink\t\t\nValorado en 5.00 de 5 (3)\n\n\n\nSamsung Galaxy S20 en Argentina\nLanzamiento 3 de marzo 2020\nPantalla: 6.2″, 1440 x 3200 pixels\nProcesador: Snapdragon 865 2.84GHz / Exynos 990 2.73GHz\nRAM: 8GB/12GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 12MP+64MP+12MP\nBatería: 4000 mAh\nsistema: Android 10\nPerfil: 7.9 mm\nPeso: 163 g\n\n\nSKU: n/a\nUSD1,000.00 USD1,100.00\nAñadir al carritoComparar\n\n\n\n\nAñadir a la lista de deseos\n\n\n\n\nComparar\n\nGalaxy S20Samsung Galaxy S20 G980f 128Gb 12gb Ram Cloud BlueGalaxy S20Samsung Galaxy S20 G980f 128Gb 12gb Ram Cloud Blue\t\t\nValorado en 5.00 de 5 (1)\n\n\n\nSamsung Galaxy S20 en Argentina\nLanzamiento 3 de marzo 2020\nPantalla: 6.2″, 1440 x 3200 pixels\nProcesador: Snapdragon 865 2.84GHz / Exynos 990 2.73GHz\nRAM: 8GB/12GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 12MP+64MP+12MP\nBatería: 4000 mAh\nsistema: Android 10\nPerfil: 7.9 mm\nPeso: 163 g\n\n\nSKU: n/a\nUSD1,000.00 USD1,100.00\nAñadir al carritoComparar\n\n\n\n\nAñadir a la lista de deseos\n\n\n\n\nComparar\n\nGalaxy S20Samsung Galaxy S20 G980f 128Gb 12gb Cosmic GrayGalaxy S20Samsung Galaxy S20 G980f 128Gb 12gb Cosmic Gray\t\t\nValorado en 5.00 de 5 (2)\n\n\n\nSamsung Galaxy S20 en Argentina\nLanzamiento 3 de marzo 2020\nPantalla: 6.2″, 1440 x 3200 pixels\nProcesador: Snapdragon 865 2.84GHz / Exynos 990 2.73GHz\nRAM: 8GB/12GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 12MP+64MP+12MP\nBatería: 4000 mAh\nsistema: Android 10\nPerfil: 7.9 mm\nPeso: 163 g\n\n\nSKU: n/a\nUSD1,000.00 USD1,100.00\nAñadir al carritoComparar\n\n\n\n\nAñadir a la lista de deseos\n\n\n\n\nComparar\n\n\n\nMostrando todos los resultados 3",
+            "processor": "Procesador: Snapdragon 865 2.84GHz / Exynos 990 2.73GHz",
+            "ramMemory": "RAM: 8GB/12GB",
+            "screenSize": "Pantalla: 6.2″, 1440 x 3200 pixels",
+            "speedProcessor": "Procesador: Snapdragon 865 2.84GHz / Exynos 990 2.73GHz",
+            "storageMemory": "Almacenamiento: 128GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://celutronic.com/Celulares/celulares-libres/celulares-samsung/galaxy-s20/"
+    },
+    {
+        "properties": {
+            "battery": "4500 mAh",
+            "mainCamera": "64 Mpx",
+            "name": "Samsung Galaxy A52 128 GB awesome white 6 GB RAM",
+            "operatingSystem": "Android",
+            "price": "$58.999",
+            "processor": "Snapdragon 720G",
+            "ramMemory": "6 GB",
+            "screenSize": "6.5 \"",
+            "speedProcessor": "2x2.3 GHz Kryo 465 Gold, 6x1.8 GHz Kryo 465 Silver",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/samsung-galaxy-a52-128-gb-awesome-white-6-gb-ram/p/MLA17493813?pdp_filters=category:MLA1055#searchVariation=MLA17493813&position=2&search_layout=stack&type=product&tracking_id=f306e207-3a2f-4548-b0db-305e21e9b781"
+    },
+    {
+        "properties": {
+            "battery": "4500 mAh",
+            "mainCamera": "12 Mpx",
+            "name": "Samsung Galaxy S20 FE 128 GB cloud mint 6 GB RAM",
+            "operatingSystem": "Android",
+            "price": "$74.999",
+            "processor": "Exynos 990",
+            "ramMemory": "6 GB",
+            "screenSize": "6.5 \"",
+            "speedProcessor": "2x2.73 GHz Mongoose M5, 2x2.5 GHz Cortex-A76, 4x2 GHz Cortex-A55",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/samsung-galaxy-s20-fe-128-gb-cloud-mint-6-gb-ram/p/MLA16211372?pdp_filters=category:MLA1055#searchVariation=MLA16211372&position=6&search_layout=stack&type=product&tracking_id=bdeb6d0e-6bff-4acc-83a5-b0e50099856f"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "64 Mpx",
+            "name": "Samsung Galaxy A32 128 GB awesome black 4 GB RAM",
+            "operatingSystem": "Android",
+            "price": "$44.999",
+            "processor": "MediaTek Helio G80",
+            "ramMemory": "4 GB",
+            "screenSize": "6.4 \"",
+            "speedProcessor": "2x2 GHz Cortex-A75, 6x1.8 GHz Cortex-A55",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/samsung-galaxy-a32-128-gb-awesome-black-4-gb-ram/p/MLA17706115?pdp_filters=category:MLA1055#searchVariation=MLA17706115&position=3&search_layout=stack&type=product&tracking_id=bf63eaa4-e707-4cb0-96dd-afc20a95a78e"
+    },
+    {
+        "properties": {
+            "battery": "4000 mAh",
+            "mainCamera": "64 Mpx",
+            "name": "Samsung Galaxy S21 5G 128 GB phantom gray 8 GB RAM",
+            "operatingSystem": "Android",
+            "price": "$133.999",
+            "ramMemory": "8 GB",
+            "screenSize": "6.2 \"",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/samsung-galaxy-s21-5g-128-gb-phantom-gray-8-gb-ram/p/MLA17331535?pdp_filters=category:MLA1055#searchVariation=MLA17331535&position=12&search_layout=stack&type=product&tracking_id=bf63eaa4-e707-4cb0-96dd-afc20a95a78e"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "64 Mpx",
+            "name": "Samsung Galaxy A72 128 GB awesome blue 6 GB RAM",
+            "operatingSystem": "Android",
+            "price": "$73.999",
+            "processor": "Snapdragon 720G",
+            "ramMemory": "6 GB",
+            "screenSize": "6.7 \"",
+            "speedProcessor": "2x2.3 GHz Kryo 465 Gold, 6x1.8 GHz Kryo 465 Silver",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/samsung-galaxy-a72-128-gb-awesome-blue-6-gb-ram/p/MLA17487518?pdp_filters=category:MLA1055#searchVariation=MLA17487518&position=10&search_layout=stack&type=product&tracking_id=bf63eaa4-e707-4cb0-96dd-afc20a95a78e"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "64 Mpx",
+            "name": "Moto G100 128 GB verde boreal 8 GB RAM",
+            "operatingSystem": "Android",
+            "price": "$79.999",
+            "processor": "Snapdragon 870",
+            "ramMemory": "8 GB",
+            "screenSize": "6.7 \"",
+            "speedProcessor": "3.2 GHz",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/moto-g100-128-gb-verde-boreal-8-gb-ram/p/MLA17796326?pdp_filters=category:MLA1055#searchVariation=MLA17796326&position=1&search_layout=stack&type=product&tracking_id=6332bffd-e742-4273-bf68-7a383fb5c142"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "64 Mpx",
+            "name": "Moto G30 128 GB gris tornasol 4 GB RAM",
+            "operatingSystem": "Android",
+            "price": "$33.799",
+            "processor": "Snapdragon 662",
+            "ramMemory": "4 GB",
+            "screenSize": "6.5 \"",
+            "speedProcessor": "4x1.8 GHz Kryo 260 Silver, 4x2 GHz Kryo 260 Gold",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/moto-g30-128-gb-gris-tornasol-4-gb-ram/p/MLA17770104?pdp_filters=category:MLA1055#searchVariation=MLA17770104&position=3&search_layout=stack&type=product&tracking_id=6332bffd-e742-4273-bf68-7a383fb5c142"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "64 Mpx",
+            "name": "Moto G9 Plus 128 GB azul dive 4 GB RAM",
+            "operatingSystem": "Android",
+            "price": "$42.559",
+            "processor": "Snapdragon 730G",
+            "ramMemory": "4 GB",
+            "screenSize": "6.8 \"",
+            "speedProcessor": "2x2.2 GHz Kryo 470 Gold, 6x1.8 GHz Kryo 470 Silver",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/moto-g9-plus-128-gb-azul-dive-4-gb-ram/p/MLA16141276?pdp_filters=category:MLA1055#searchVariation=MLA16141276&position=4&search_layout=stack&type=product&tracking_id=6332bffd-e742-4273-bf68-7a383fb5c142"
+    },
+    {
+        "properties": {
+            "battery": "5260 mAh",
+            "mainCamera": "108 Mpx",
+            "name": "Xiaomi Redmi Note 10 Pro 64gb Negro MedianocheAgregar a favoritos",
+            "operatingSystem": "Android",
+            "price": "$87.732,67",
+            "processor": "Snapdragon 730G",
+            "ramMemory": "6 GB",
+            "screenSize": "6.47 \"",
+            "speedProcessor": "2x2.2 GHz Kryo 470 Gold,6x1.8 GHz Kryo 470 Silver",
+            "storageMemory": "64 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://articulo.mercadolibre.com.ar/MLA-930506714-xiaomi-redmi-note-10-pro-64gb-negro-medianoche-_JM?searchVariation=91903454533#searchVariation=91903454533&position=1&search_layout=stack&type=item&tracking_id=5734658a-bb98-4762-afff-274a560eed42"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "48 Mpx",
+            "name": "Xiaomi Redmi Note 10 5g 4gb/128gb Garantia Tienda OficialAgregar a favoritos",
+            "operatingSystem": "Android",
+            "price": "$42.999",
+            "processor": "MediaTek MT6853 Dimensity 700",
+            "ramMemory": "4 GB",
+            "screenSize": "6.5 \"",
+            "speedProcessor": "2x2.2 GHz Cortex-A76,6x2 GHz Cortex-A55",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://articulo.mercadolibre.com.ar/MLA-928496468-xiaomi-redmi-note-10-5g-4gb128gb-garantia-tienda-oficial-_JM?searchVariation=90147883733#searchVariation=90147883733&position=3&search_layout=stack&type=item&tracking_id=5734658a-bb98-4762-afff-274a560eed42"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "13 Mpx",
+            "name": "Xiaomi Redmi 9a 2gb/32gb Azul Garantia Tienda OficialAgregar a favoritos",
+            "operatingSystem": "Android",
+            "price": "$26.999",
+            "processor": "MediaTek Helio G25",
+            "ramMemory": "2 GB",
+            "screenSize": "6.53 \"",
+            "speedProcessor": "8x2 GHz Cortex-A53",
+            "storageMemory": "32 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://articulo.mercadolibre.com.ar/MLA-882894139-xiaomi-redmi-9a-2gb32gb-azul-garantia-tienda-oficial-_JM?searchVariation=65557058476#searchVariation=65557058476&position=7&search_layout=stack&type=item&tracking_id=5734658a-bb98-4762-afff-274a560eed42"
+    },
+    {
+        "properties": {
+            "battery": "4250 mAh",
+            "mainCamera": "64 Mpx",
+            "name": "Xiaomi Mi 11 Lite 6gb/128gb BlackAgregar a favoritos",
+            "operatingSystem": "Android",
+            "price": "$106.153",
+            "processor": "Snapdragon 732G",
+            "ramMemory": "6 GB",
+            "screenSize": "6.55 \"",
+            "speedProcessor": "2x2.3 GHz Kryo 470 Gold,6x1.8 GHz Kryo 470 Silver",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://articulo.mercadolibre.com.ar/MLA-929627514-xiaomi-mi-11-lite-6gb128gb-black-_JM?searchVariation=91202455603#searchVariation=91202455603&position=13&search_layout=stack&type=item&tracking_id=5734658a-bb98-4762-afff-274a560eed42"
+    },
+    {
+        "properties": {
+            "battery": "3110 mAh",
+            "mainCamera": "12 Mpx",
+            "name": "Apple iPhone 11 (64 GB) - Blanco",
+            "operatingSystem": "iOS",
+            "price": "$164.854",
+            "processor": "Apple A13 Bionic",
+            "ramMemory": "4 GB",
+            "screenSize": "6.1 \"",
+            "speedProcessor": "2x2.65 GHz Lightning, 4x1.8 GHz Thunder",
+            "storageMemory": "64 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/apple-iphone-11-64-gb-blanco/p/MLA15149562?pdp_filters=category:MLA1055#searchVariation=MLA15149562&position=2&search_layout=stack&type=product&tracking_id=8c05bfac-7d2a-41a3-890a-5f556b233654"
+    },
+    {
+        "properties": {
+            "mainCamera": "Cámara Principal\n64 MP, f 1.8, 26 mm (ancho), 1 1.73 “, 0.8, PDAF",
+            "name": "Motorola Moto G9 Plus",
+            "operatingSystem": "Sistema Operativo\nAndroid 10",
+            "price": "USD280.00",
+            "processor": "Procesador\nOcta-core (2×2.2 GHz Kryo 470 Gold 6×1.8 GHz Kryo 470 Silver)",
+            "ramMemory": "Memoria RAM\n4GB",
+            "screenSize": "Tamaño de pantalla:6,80″",
+            "speedProcessor": "Procesador\nOcta-core (2×2.2 GHz Kryo 470 Gold 6×1.8 GHz Kryo 470 Silver)"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://celutronic.com/producto/motorola-moto-g9-plus/"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "13.0 MP + 2.0 MP",
+            "operatingSystem": "Android",
+            "price": "$ 23.999",
+            "processor": "1.5GHz  Quad-Core",
+            "ramMemory": "3 GB",
+            "screenSize": "6.5",
+            "speedProcessor": "1.5GHz  Quad-Core",
+            "storageMemory": "64 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-samsung-galaxy-a02-64-gb-negro-781690/"
+    },
+    {
+        "properties": {
+            "battery": "4500 mA",
+            "mainCamera": "12 Mpx",
+            "name": "Celular Libre Samsung Galaxy S20 FE Blanco SM-G780FZWLARO GB",
+            "operatingSystem": "Sistema Operativo\n                                                    \n                                                        \n                                                        \n                                                            \n                                                                \n                                                            \n                                                            Sistema Operativo\n                                                            \n                                                                El sistema operativo es el programa básico de una computadora y sobre el cuál el resto de los programas corren.\n                                                            \n                                                        \n                                                    \n                                                \n                                                Android",
+            "price": "$81.999",
+            "processor": "Octa Core",
+            "ramMemory": "6\n                                \t\t\t\t\t\tGB",
+            "screenSize": "6.5\"",
+            "speedProcessor": "2730 MHz",
+            "storageMemory": "128\n                                            \t\t\tGB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.garbarino.com/producto/celular-libre-samsung-galaxy-s20-fe-blanco-sm-g780fzwlaro-gb/6b53ee22b8"
+    },
+    {
+        "properties": {
+            "battery": "4500 mA",
+            "mainCamera": "64 Mpx",
+            "name": "Celular Libre Samsung Galaxy A52 Azul SM-A525MZBEARO GB",
+            "operatingSystem": "Sistema Operativo\n                                                    \n                                                        \n                                                        \n                                                            \n                                                                \n                                                            \n                                                            Sistema Operativo\n                                                            \n                                                                El sistema operativo es el programa básico de una computadora y sobre el cuál el resto de los programas corren.\n                                                            \n                                                        \n                                                    \n                                                \n                                                Android",
+            "price": "$55.999",
+            "processor": "Octa Core",
+            "ramMemory": "6\n                                \t\t\t\t\t\tGB",
+            "screenSize": "6.5\"",
+            "speedProcessor": "2300 MHz",
+            "storageMemory": "128\n                                            \t\t\tGB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.garbarino.com/producto/celular-libre-samsung-galaxy-a52-azul-sm-a525mzbearo-gb/cc827e18b5"
+    },
+    {
+        "properties": {
+            "battery": "3969 mA",
+            "mainCamera": "12 Mpx",
+            "name": "Celular Libre Apple iphone 11 pro max 64 gb Plateado 64 GB",
+            "operatingSystem": "iOS",
+            "price": "$399.999",
+            "processor": "A12",
+            "ramMemory": "4 GB",
+            "screenSize": "6.5\"",
+            "speedProcessor": "1100 MHz",
+            "storageMemory": "64 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.garbarino.com/producto/celular-libre-apple-iphone-11-pro-max-64-gb-plateado-64-gb/b9a5956932"
+    },
+    {
+        "properties": {
+            "battery": "3000 mA",
+            "mainCamera": "13 Mpx",
+            "name": "Celular Libre LG K22 Rojo",
+            "operatingSystem": "Sistema Operativo\n                                                    \n                                                        \n                                                        \n                                                            \n                                                                \n                                                            \n                                                            Sistema Operativo\n                                                            \n                                                                El sistema operativo es el programa básico de una computadora y sobre el cuál el resto de los programas corren.\n                                                            \n                                                        \n                                                    \n                                                \n                                                Android",
+            "price": "$18.999",
+            "processor": "Quad Core",
+            "ramMemory": "2\n                                \t\t\t\t\t\tGB",
+            "screenSize": "6.2\"",
+            "speedProcessor": "1300 MHz",
+            "storageMemory": "32\n                                            \t\t\tGB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.garbarino.com/producto/celular-libre-lg-k22-rojo/ab7971c980"
+    },
+    {
+        "properties": {
+            "battery": "5000 mA",
+            "mainCamera": "108 Mpx",
+            "name": "Celular Libre Samsung Galaxy S21 Ultra Gris SM-G998BZSMARO",
+            "operatingSystem": "Sistema Operativo\n                                                    \n                                                        \n                                                        \n                                                            \n                                                                \n                                                            \n                                                            Sistema Operativo\n                                                            \n                                                                El sistema operativo es el programa básico de una computadora y sobre el cuál el resto de los programas corren.\n                                                            \n                                                        \n                                                    \n                                                \n                                                Android",
+            "price": "$186.999",
+            "processor": "Octa Core",
+            "ramMemory": "12\n                                \t\t\t\t\t\tGB",
+            "screenSize": "6.8\"",
+            "speedProcessor": "2900 MHz",
+            "storageMemory": "256\n                                            \t\t\tGB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.garbarino.com/producto/celular-libre-samsung-galaxy-s21-ultra-gris-sm-g998bzsmaro/51e607f141"
+    },
+    {
+        "properties": {
+            "battery": "4300 mA",
+            "mainCamera": "48 Mpx",
+            "name": "Celular Libre LG Velvet Blanco LG-G910HM",
+            "operatingSystem": "Sistema Operativo\n                                                    \n                                                        \n                                                        \n                                                            \n                                                                \n                                                            \n                                                            Sistema Operativo\n                                                            \n                                                                El sistema operativo es el programa básico de una computadora y sobre el cuál el resto de los programas corren.\n                                                            \n                                                        \n                                                    \n                                                \n                                                Android",
+            "price": "$64.999",
+            "processor": "Octa Core",
+            "ramMemory": "6\n                                \t\t\t\t\t\tGB",
+            "screenSize": "6.8\"",
+            "speedProcessor": "2480 MHz",
+            "storageMemory": "128\n                                            \t\t\tGB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.garbarino.com/producto/celular-libre-lg-velvet-blanco-lg-g910hm/d04eb69361"
+    },
+    {
+        "properties": {
+            "battery": "4000 mA",
+            "mainCamera": "48 Mpx",
+            "name": "Celular Libre Samsung Galaxy A51 Blanco SM-A515FZWLARO",
+            "operatingSystem": "Sistema Operativo\n                                                    \n                                                        \n                                                        \n                                                            \n                                                                \n                                                            \n                                                            Sistema Operativo\n                                                            \n                                                                El sistema operativo es el programa básico de una computadora y sobre el cuál el resto de los programas corren.\n                                                            \n                                                        \n                                                    \n                                                \n                                                Android",
+            "price": "$47.999",
+            "processor": "Octa Core",
+            "ramMemory": "4\n                                \t\t\t\t\t\tGB",
+            "screenSize": "6.5\"",
+            "speedProcessor": "1700 MHz",
+            "storageMemory": "128\n                                            \t\t\tGB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.garbarino.com/producto/celular-libre-samsung-galaxy-a51-blanco-sm-a515fzwlaro/80c7e877fb"
+    },
+    {
+        "properties": {
+            "battery": "3000 mAh",
+            "mainCamera": "13 Mpx",
+            "name": "LG K22 32 GB blue 2 GB RAM",
+            "operatingSystem": "Android",
+            "price": "$19.999",
+            "processor": "Snapdragon 215",
+            "ramMemory": "2 GB",
+            "screenSize": "6.2 \"",
+            "speedProcessor": "1.3 GHz",
+            "storageMemory": "32 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/lg-k22-32-gb-blue-2-gb-ram/p/MLA16217273?pdp_filters=category:MLA1055#searchVariation=MLA16217273&position=2&search_layout=stack&type=product&tracking_id=0916066f-f4a9-4d48-b3d8-3effac0f5806"
+    },
+    {
+        "properties": {
+            "battery": "4300 mAh",
+            "mainCamera": "48 Mpx",
+            "name": "LG Velvet 128 Gb  Aurora Silver 6 Gb RamAgregar a favoritos",
+            "operatingSystem": "Android",
+            "price": "$69.999",
+            "processor": "Snapdragon 845",
+            "ramMemory": "6 GB",
+            "screenSize": "6.8 \"",
+            "speedProcessor": "2.8 GHz",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://articulo.mercadolibre.com.ar/MLA-911930740-lg-velvet-128-gb-aurora-silver-6-gb-ram-_JM?searchVariation=78784137643#searchVariation=78784137643&position=6&search_layout=stack&type=item&tracking_id=1ffc18c7-bc19-4682-a267-4dbed08eba50"
+    },
+    {
+        "properties": {
+            "battery": "4800 mA",
+            "mainCamera": "64 Mpx",
+            "name": "Celular Libre Samsung Galaxy S21 + Gris SM-G996BZSLARO",
+            "operatingSystem": "Sistema Operativo\n                                                    \n                                                        \n                                                        \n                                                            \n                                                                \n                                                            \n                                                            Sistema Operativo\n                                                            \n                                                                El sistema operativo es el programa básico de una computadora y sobre el cuál el resto de los programas corren.\n                                                            \n                                                        \n                                                    \n                                                \n                                                Android",
+            "price": "$144.999",
+            "processor": "Octa Core",
+            "ramMemory": "8\n                                \t\t\t\t\t\tGB",
+            "screenSize": "6.7\"",
+            "speedProcessor": "2900 MHz",
+            "storageMemory": "128\n                                            \t\t\tGB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.garbarino.com/producto/celular-libre-samsung-galaxy-s21-gris-sm-g996bzslaro/2f538c902a"
+    },
+    {
+        "properties": {
+            "battery": "5000 mA",
+            "mainCamera": "48 Mpx",
+            "name": "Celular Libre Samsung A12 Azul SM-A125MZBEARO GB",
+            "operatingSystem": "Sistema Operativo\n                                                    \n                                                        \n                                                        \n                                                            \n                                                                \n                                                            \n                                                            Sistema Operativo\n                                                            \n                                                                El sistema operativo es el programa básico de una computadora y sobre el cuál el resto de los programas corren.\n                                                            \n                                                        \n                                                    \n                                                \n                                                Android",
+            "price": "$28.999",
+            "processor": "Octa Core",
+            "ramMemory": "Memoria RAM\n                                            \t\t\t\n                                \t\t\t\t\t\t\t\n                                \t\t\t\t\t\t\t\n                                \t\t\t\t\t\t\t\t\n                                \t\t\t\t\t\t\t\t\t\n                                \t\t\t\t\t\t\t\t\n                                \t\t\t\t\t\t\t\tMemoria RAM\n                                \t\t\t\t\t\t\t\t\n                                \t\t\t\t\t\t\t\t\tLa memoria RAM es el lugar dónde se almacenan los programas que se están ejecutando. A mayor cantidad de GB de memoria, mejor será el rendimiento y velocidad del sistema. 4GB es una cantidad suficiente para el usuario promedio.\n                                \t\t\t\t\t\t\t\t\n                                \t\t\t\t\t\t\t\n                                              \t\t\t\n                                          \t\t\t\n                                            \t\t4\n                                            \t\tGB",
+            "screenSize": "6.5\"",
+            "speedProcessor": "2300 MHz",
+            "storageMemory": "64\n                                            \t\t\tGB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.garbarino.com/producto/celular-libre-samsung-a12-azul-sm-a125mzbearo-gb/2b9a6ceb23"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "48 Mpx",
+            "name": "Samsung Galaxy A12 64 GB negro 4 GB RAM",
+            "operatingSystem": "Android",
+            "price": "$30.999",
+            "processor": "MediaTek MT6765 Helio P35",
+            "ramMemory": "4 GB",
+            "screenSize": "6.5 \"",
+            "speedProcessor": "2.35 GHz",
+            "storageMemory": "64 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/samsung-galaxy-a12-64-gb-negro-4-gb-ram/p/MLA17415926?pdp_filters=category:MLA1055#searchVariation=MLA17415926&position=1&search_layout=stack&type=product&tracking_id=ed9ef857-0c0b-48a8-9b6a-73f9c46ca5bf"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "108 Mpx",
+            "name": "Samsung Galaxy S21 Ultra 5G 256 GB phantom black 12 GB RAM",
+            "operatingSystem": "Android",
+            "price": "$195.999",
+            "ramMemory": "12 GB",
+            "screenSize": "6.8 \"",
+            "storageMemory": "256 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/samsung-galaxy-s21-ultra-5g-256-gb-phantom-black-12-gb-ram/p/MLA17343021?pdp_filters=category:MLA1055#searchVariation=MLA17343021&position=7&search_layout=stack&type=product&tracking_id=8f954072-ddd1-47fd-bd63-b995ef9d3436"
+    },
+    {
+        "properties": {
+            "battery": "Li-Ion 5000",
+            "mainCamera": "64 MP + 8 MP + 2 MP + 2 MP",
+            "name": "Motorola Moto G30",
+            "operatingSystem": "Android 11",
+            "price": "$33.999",
+            "processor": "Octa Core 2.0",
+            "ramMemory": "4GB",
+            "screenSize": "6.5",
+            "speedProcessor": "Octa Core 2.0",
+            "storageMemory": "128GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/motorola-moto-g30.html"
+    },
+    {
+        "properties": {
+            "battery": "Li-Po",
+            "mainCamera": "48 MP + 8 MP + 2 MP + 2 MP",
+            "name": "Motorola Moto G20",
+            "operatingSystem": "Android 11",
+            "price": "$26.999",
+            "processor": "Octa Core 1.8",
+            "ramMemory": "4GB",
+            "screenSize": "6.5",
+            "speedProcessor": "Octa Core 1.8",
+            "storageMemory": "64GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/motorola-moto-g20.html"
+    },
+    {
+        "properties": {
+            "battery": "Li-Ion 5000",
+            "mainCamera": "64 MP + 8 MP + 5 MP + 5 MP",
+            "name": "Samsung Galaxy A32",
+            "operatingSystem": "Android 11",
+            "price": "$39.999",
+            "processor": "Octa Core 2.0",
+            "ramMemory": "4GB",
+            "screenSize": "6.4",
+            "speedProcessor": "Octa Core 2.0",
+            "storageMemory": "128GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/samsung-galaxy-a32.html"
+    },
+    {
+        "properties": {
+            "battery": "Li-Ion 4500",
+            "mainCamera": "64 MP + 12 MP + 5 MP + 5 MP",
+            "name": "Samsung Galaxy A52",
+            "operatingSystem": "Android 11",
+            "price": "$58.999",
+            "processor": "Octa Core 2.0",
+            "ramMemory": "6GB",
+            "screenSize": "6.5",
+            "speedProcessor": "Octa Core 2.0",
+            "storageMemory": "128GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/samsung-galaxy-a52.html"
+    },
+    {
+        "properties": {
+            "battery": "Li-Ion 5000",
+            "mainCamera": "64 MP + 2 MP + 16 MP + 2 MP",
+            "name": "Motorola Moto G100",
+            "operatingSystem": "Android 11",
+            "price": "$74.999",
+            "processor": "Octa Core 3.187",
+            "ramMemory": "8GB",
+            "screenSize": "6.7",
+            "speedProcessor": "Octa Core 3.187",
+            "storageMemory": "128GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/motorola-moto-g100.html"
+    },
+    {
+        "properties": {
+            "battery": "Li-Po 3000",
+            "mainCamera": "13 MP + 2 MP",
+            "name": "LG K22 Plus",
+            "operatingSystem": "Android 10",
+            "price": "$19.999",
+            "processor": "Quad-core 1.3",
+            "ramMemory": "3GB",
+            "screenSize": "6.2",
+            "speedProcessor": "Quad-core 1.3",
+            "storageMemory": "64GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/lg-k22-plus.html"
+    },
+    {
+        "properties": {
+            "mainCamera": "12 MP + 8 MP + 12 MP",
+            "name": "Samsung Galaxy S20 FE",
+            "operatingSystem": "Android 11",
+            "price": "$74.999",
+            "processor": "Qualcomm SM8250 8 nucleos 2,4 GHZ",
+            "ramMemory": "6GB",
+            "screenSize": "6.5",
+            "speedProcessor": "Qualcomm SM8250 8 nucleos 2,4 GHZ",
+            "storageMemory": "128GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/samsung-galaxy-s20-fe-qualcomm.html"
+    },
+    {
+        "properties": {
+            "mainCamera": "48 MP + 5 MP + 2 MP + 2 MP",
+            "name": "Samsung Galaxy A12 128GB",
+            "operatingSystem": "Android 10",
+            "price": "$32.999",
+            "processor": "Octa Core 2.3",
+            "ramMemory": "4GB",
+            "screenSize": "6.5",
+            "speedProcessor": "Octa Core 2.3",
+            "storageMemory": "128GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/samsung-galaxy-a12-128gb.html"
+    },
+    {
+        "properties": {
+            "mainCamera": "48 MP + 5 MP + 2 MP + 2 MP",
+            "name": "Samsung Galaxy A22",
+            "operatingSystem": "Android 11",
+            "price": "$38.999",
+            "processor": "Octa Core 2.0",
+            "ramMemory": "4GB",
+            "screenSize": "6.4",
+            "speedProcessor": "Octa Core 2.0",
+            "storageMemory": "128GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/samsung-galaxy-a22.html"
+    },
+    {
+        "properties": {
+            "battery": "Li-Ion 5000",
+            "mainCamera": "64 MP + 8 MP + 12 MP + 5 MP",
+            "name": "Samsung Galaxy A72",
+            "operatingSystem": "Android 11",
+            "price": "$69.999",
+            "processor": "Octa Core 2.0",
+            "ramMemory": "6GB",
+            "screenSize": "6.7",
+            "speedProcessor": "Octa Core 2.0",
+            "storageMemory": "128GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/samsung-galaxy-a72.html"
+    },
+    {
+        "properties": {
+            "battery": "Li-Po 3000",
+            "mainCamera": "13 MP + 2 MP",
+            "name": "LG K22",
+            "operatingSystem": "Android 10",
+            "price": "$16.999",
+            "processor": "Quad-core 1.3",
+            "ramMemory": "2GB",
+            "screenSize": "6.2",
+            "speedProcessor": "Quad-core 1.3",
+            "storageMemory": "32GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/lg-k22.html"
+    },
+    {
+        "properties": {
+            "battery": "Li-Ion 4000",
+            "mainCamera": "13 MP + 5 MP + 2 MP + 2 MP",
+            "name": "LG K41s",
+            "operatingSystem": "Android 10",
+            "price": "$20.999",
+            "processor": "Octa Core 2.0",
+            "ramMemory": "3GB",
+            "screenSize": "6.5",
+            "speedProcessor": "Octa Core 2.0",
+            "storageMemory": "32GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/lg-k41s.html"
+    },
+    {
+        "properties": {
+            "battery": "Li-ion",
+            "mainCamera": "13 MP + 5 MP + 2 MP + 2 MP",
+            "name": "LG K42",
+            "operatingSystem": "Android 10",
+            "price": "$24.999",
+            "processor": "Octa Core 2.0",
+            "ramMemory": "3GB",
+            "screenSize": "6.6",
+            "speedProcessor": "Octa Core 2.0",
+            "storageMemory": "64GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/lg-k42.html"
+    },
+    {
+        "properties": {
+            "battery": "Li-Ion 4000",
+            "mainCamera": "48 MP + 8 MP + 2 MP + 5 MP",
+            "name": "LG K61",
+            "operatingSystem": "Android 10",
+            "price": "$33.999",
+            "processor": "Octa Core 2.3",
+            "ramMemory": "4GB",
+            "screenSize": "6.53",
+            "speedProcessor": "Octa Core 2.3",
+            "storageMemory": "128GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/lg-k61.html"
+    },
+    {
+        "properties": {
+            "battery": "Li-Ion 5000",
+            "mainCamera": "108 MP + 10 MP + 10 MP + 12 MP",
+            "name": "Samsung Galaxy S21 Ultra",
+            "operatingSystem": "Android 11",
+            "price": "$195.999",
+            "processor": "Octa Core 2.9",
+            "ramMemory": "12GB",
+            "screenSize": "6.8",
+            "speedProcessor": "Octa Core 2.9",
+            "storageMemory": "256GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/samsung-galaxy-s21-ultra.html"
+    },
+    {
+        "properties": {
+            "battery": "Li-Ion 4800",
+            "mainCamera": "12 MP + 64 MP + 12 MP",
+            "name": "Samsung Galaxy S21 Plus con Precio Exclusivo",
+            "operatingSystem": "Android 11",
+            "price": "$139.999",
+            "processor": "Octa Core 2.9",
+            "ramMemory": "8GB",
+            "screenSize": "6.7",
+            "speedProcessor": "Octa Core 2.9",
+            "storageMemory": "128GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/samsung-galaxy-s21-plus-con-precio-exclusivo.html"
+    },
+    {
+        "properties": {
+            "battery": "Li-Ion 4300",
+            "mainCamera": "48 MP + 8 MP + 5 MP",
+            "name": "LG Velvet",
+            "operatingSystem": "Android 10",
+            "price": "$64.999",
+            "processor": "Octa Core 2.8",
+            "ramMemory": "6GB",
+            "screenSize": "6.8",
+            "speedProcessor": "Octa Core 2.8",
+            "storageMemory": "128GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/lg-velvet.html"
+    },
+    {
+        "properties": {
+            "battery": "4000 mAh",
+            "mainCamera": "13 Mpx",
+            "name": "LG K41S 32 GB titanio 3 GB RAM",
+            "operatingSystem": "Android",
+            "price": "$23.999",
+            "processor": "MediaTek MT6762 Helio P22",
+            "ramMemory": "3 GB",
+            "screenSize": "6.55 \"",
+            "speedProcessor": "2 GHz",
+            "storageMemory": "32 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/lg-k41s-32-gb-titanio-3-gb-ram/p/MLA15808236?pdp_filters=category:MLA1055#searchVariation=MLA15808236&position=4&search_layout=stack&type=product&tracking_id=75ff7d08-8729-4d50-9c08-1eee73f09e04"
+    },
+    {
+        "properties": {
+            "battery": "4000 mAh",
+            "mainCamera": "48 Mpx",
+            "name": "LG K61 128 GB titanio 4 GB RAM",
+            "operatingSystem": "Android",
+            "price": "$29.999",
+            "processor": "MediaTek MT6765 Helio P35",
+            "ramMemory": "4 GB",
+            "screenSize": "6.53 \"",
+            "speedProcessor": "2.3 GHz",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/lg-k61-128-gb-titanio-4-gb-ram/p/MLA15841978?pdp_filters=category:MLA1055#searchVariation=MLA15841978&position=5&search_layout=stack&type=product&tracking_id=75ff7d08-8729-4d50-9c08-1eee73f09e04"
+    },
+    {
+        "properties": {
+            "battery": "3000 mAh",
+            "mainCamera": "13 Mpx",
+            "name": "LG K22+ 64 GB titan 3 GB RAM",
+            "operatingSystem": "13 Mpx",
+            "price": "$21.999",
+            "processor": "3000 mAh",
+            "ramMemory": "3 GB",
+            "screenSize": "6.2 \"",
+            "speedProcessor": "1.3 GHz",
+            "storageMemory": "64 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/lg-k22-64-gb-titan-3-gb-ram/p/MLA16182449?pdp_filters=category:MLA1055#searchVariation=MLA16182449&position=11&search_layout=stack&type=product&tracking_id=75ff7d08-8729-4d50-9c08-1eee73f09e04"
+    },
+    {
+        "properties": {
+            "battery": "Li-ion",
+            "mainCamera": "13 MP + 2 MP + 2 MP",
+            "name": "Alcatel 3H",
+            "operatingSystem": "Android 11",
+            "price": "$22.999",
+            "processor": "Octa Core 1.8",
+            "ramMemory": "3GB",
+            "screenSize": "6.5",
+            "speedProcessor": "Octa Core 1.8",
+            "storageMemory": "64GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/alcatel-3h.html"
+    },
+    {
+        "properties": {
+            "battery": "Li-Ion 4000",
+            "mainCamera": "13 MP",
+            "name": "Alcatel 1V Plus",
+            "operatingSystem": "Android 10",
+            "price": "$15.999",
+            "processor": "Octa Core 1.8",
+            "ramMemory": "2GB",
+            "screenSize": "6.1",
+            "speedProcessor": "Octa Core 1.8",
+            "storageMemory": "32GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/alcatel-1v-plus.html"
+    },
+    {
+        "properties": {
+            "battery": "Li-ion",
+            "mainCamera": "13 MP + 2 MP",
+            "name": "Nokia 2.4",
+            "operatingSystem": "Android 10",
+            "price": "$27.599",
+            "processor": "Octa Core 2.0",
+            "ramMemory": "3GB",
+            "screenSize": "6.5",
+            "speedProcessor": "Octa Core 2.0",
+            "storageMemory": "64GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/nokia-2-222.html"
+    },
+    {
+        "properties": {
+            "battery": "Li-Ion 3000",
+            "mainCamera": "8 MP",
+            "name": "Nokia 1.3",
+            "operatingSystem": "Android 10",
+            "price": "$16.699",
+            "processor": "Quad-core 1.2",
+            "ramMemory": "1GB",
+            "screenSize": "5.7",
+            "speedProcessor": "Quad-core 1.2",
+            "storageMemory": "16GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/nokia-1-3.html"
+    },
+    {
+        "properties": {
+            "mainCamera": "48 MP + 2 MP + 2 MP",
+            "name": "TCL 20 Y",
+            "operatingSystem": "Android 11",
+            "price": "$28.999",
+            "processor": "Octa Core 1.8",
+            "ramMemory": "4GB",
+            "screenSize": "6.5",
+            "speedProcessor": "Octa Core 1.8",
+            "storageMemory": "128GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/tcl-20-y.html"
+    },
+    {
+        "properties": {
+            "mainCamera": "13 MP + 5 MP + 2 MP",
+            "name": "TCL T PRO",
+            "operatingSystem": "Android 10",
+            "price": "$24.999",
+            "processor": "Quad-core 1.3",
+            "ramMemory": "4GB",
+            "screenSize": "6.2",
+            "speedProcessor": "Quad-core 1.3",
+            "storageMemory": "128GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/tcl-t-pro.html"
+    },
+    {
+        "properties": {
+            "battery": "4000 mA",
+            "mainCamera": "13 Mpx",
+            "name": "Celular Liberado Alcatel 1V Plus Negro 32 GB",
+            "operatingSystem": "Android",
+            "price": "$17.899",
+            "processor": "Octa",
+            "ramMemory": "2 GB",
+            "screenSize": "6.22\"",
+            "speedProcessor": "1800 MHz",
+            "storageMemory": "32 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.garbarino.com/producto/celular-liberado-alcatel-1v-plus-negro-32-gb/9ad324c28c"
+    },
+    {
+        "properties": {
+            "battery": "3500 mA",
+            "mainCamera": "13 Mpx",
+            "name": "Celular Libre Nokia 3.1- Azul",
+            "operatingSystem": "Sistema Operativo\n                                                    \n                                                        \n                                                        \n                                                            \n                                                                \n                                                            \n                                                            Sistema Operativo\n                                                            \n                                                                El sistema operativo es el programa básico de una computadora y sobre el cuál el resto de los programas corren.\n                                                            \n                                                        \n                                                    \n                                                \n                                                Android",
+            "price": "$25.999",
+            "processor": "Octa Core",
+            "ramMemory": "3\n                                \t\t\t\t\t\tGB",
+            "screenSize": "6\"",
+            "speedProcessor": "1500 MHz",
+            "storageMemory": "32\n                                            \t\t\tGB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.garbarino.com/producto/celular-libre-nokia-3.1-azul/1519fe677b"
+    },
+    {
+        "properties": {
+            "battery": "3060 mA",
+            "mainCamera": "12 Mpx",
+            "name": "Celular Libre Nokia 7.1- Plateado",
+            "operatingSystem": "Sistema Operativo\n                                                    \n                                                        \n                                                        \n                                                            \n                                                                \n                                                            \n                                                            Sistema Operativo\n                                                            \n                                                                El sistema operativo es el programa básico de una computadora y sobre el cuál el resto de los programas corren.\n                                                            \n                                                        \n                                                    \n                                                \n                                                Android",
+            "price": "$49.999",
+            "processor": "Octa Core",
+            "ramMemory": "4\n                                \t\t\t\t\t\tGB",
+            "screenSize": "5.84\"",
+            "speedProcessor": "1800 MHz",
+            "storageMemory": "64\n                                            \t\t\tGB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.garbarino.com/producto/celular-libre-nokia-7.1-plateado/dc49d3ef04"
+    },
+    {
+        "properties": {
+            "battery": "3000 mA",
+            "mainCamera": "8 Mpx",
+            "name": "Celular Libre Nokia 1.3 SS Negro 16 GB",
+            "operatingSystem": "Android",
+            "price": "$18.379",
+            "processor": "Quad",
+            "ramMemory": "1 GB",
+            "screenSize": "5.7\"",
+            "speedProcessor": "1300 MHz",
+            "storageMemory": "16 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.garbarino.com/producto/celular-libre-nokia-1.3-ss-negro-16-gb/15c0e317fa"
+    },
+    {
+        "properties": {
+            "battery": "3060 mAh",
+            "mainCamera": "12 Mpx",
+            "name": "Nokia 7.1 64 GB acero brillante 4 GB RAM",
+            "operatingSystem": "Android",
+            "price": "$30.499",
+            "processor": "Snapdragon 636",
+            "ramMemory": "4 GB",
+            "screenSize": "5.84 \"",
+            "speedProcessor": "1.8 GHz",
+            "storageMemory": "64 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/nokia-71-64-gb-acero-brillante-4-gb-ram/p/MLA14713626?pdp_filters=category:MLA1055#searchVariation=MLA14713626&position=2&search_layout=stack&type=product&tracking_id=2ed006e9-42d3-4d93-8881-37aed79157c7"
+    },
+    {
+        "properties": {
+            "battery": "3000 mAh",
+            "mainCamera": "8 Mpx",
+            "name": "Nokia 1.3 16 GB carbón 1 GB RAM",
+            "operatingSystem": "Android",
+            "price": "$13.149",
+            "processor": "Qualcomm QM215",
+            "ramMemory": "1 GB",
+            "screenSize": "5.71 \"",
+            "speedProcessor": "1.3 GHz",
+            "storageMemory": "16 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.mercadolibre.com.ar/nokia-13-16-gb-carbon-1-gb-ram/p/MLA16589168?pdp_filters=category:MLA1055#searchVariation=MLA16589168&position=4&search_layout=stack&type=product&tracking_id=2ed006e9-42d3-4d93-8881-37aed79157c7"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "108 MP + 12 MP + 10 MP + 10 MP",
+            "name": "Celular Samsung Galaxy S21 Ultra 256 GB Negro",
+            "operatingSystem": "Android 11",
+            "price": "$ 195.999",
+            "processor": "Exynos 2100 Octa-Core 2.9 GHz",
+            "ramMemory": "12 GB",
+            "screenSize": "6.8",
+            "speedProcessor": "Exynos 2100 Octa-Core 2.9 GHz",
+            "storageMemory": "256 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-samsung-galaxy-s21-ultra-256-gb-negro-781590/"
+    },
+    {
+        "properties": {
+            "battery": "4800 mAh",
+            "mainCamera": "12 MP + 64 MP + 12 MP",
+            "name": "Celular Libre Samsung Galaxy S21 Plus Negro",
+            "operatingSystem": "Android 11",
+            "price": "$ 154.999",
+            "processor": "Exynos 2100 Octa-Core 2.9 GHz",
+            "ramMemory": "8 GB",
+            "screenSize": "6.7",
+            "speedProcessor": "Exynos 2100 Octa-Core 2.9 GHz",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-libre-samsung-galaxy-s21-plus-negro-781397/"
+    },
+    {
+        "properties": {
+            "battery": "4000 mAh",
+            "mainCamera": "2 MP + 64 MP + 12 MP",
+            "name": "Celular Samsung Galaxy S21 128 GB Gris",
+            "operatingSystem": "Android 11",
+            "price": "$ 133.999",
+            "processor": "Exynos 2100 Octa-Core 2.9 GHz",
+            "ramMemory": "8 GB",
+            "screenSize": "6.2",
+            "speedProcessor": "Exynos 2100 Octa-Core 2.9 GHz",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-samsung-galaxy-s21-128-gb-gris-781523/"
+    },
+    {
+        "properties": {
+            "battery": "5.000 mAh",
+            "mainCamera": "48MP4. Ultra Gran Angular: 8MP. Macro: 2MP. Profundidad: 2MP",
+            "name": "Celular Motorola G20 64GB Azul",
+            "operatingSystem": "Android 11",
+            "price": "$ 28.999",
+            "processor": "Octa Core 1.8 Ghz",
+            "ramMemory": "4 GB",
+            "screenSize": "6.5",
+            "speedProcessor": "Octa Core 1.8 Ghz",
+            "storageMemory": "64 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-motorola-g20-64gb-azul--781492/"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "64MP + Ultra Gran Angular: 8MP + Macro: 2MP + Profundidad: 2MP",
+            "name": "Celular Motorola G30 128 GB Lila",
+            "operatingSystem": "Android",
+            "price": "$ 35.999",
+            "processor": "Octa Core Snapdragon 662",
+            "ramMemory": "4 GB",
+            "screenSize": "6.5",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-motorola-g30-128-gb-lila--781452/"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "64 Mp + 8 Mp + 2 Mp + 2 Mp",
+            "name": "Celular Motorola G9 Plus 128 GB Azul",
+            "operatingSystem": "Android",
+            "price": "$ 44.999",
+            "processor": "Qualcomm Snapdragon 730G",
+            "ramMemory": "4 GB",
+            "screenSize": "6.8",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-motorola-g9-plus-128-gb-azul-781490/"
+    },
+    {
+        "properties": {
+            "battery": "4500 mAh",
+            "mainCamera": "12 MP + 12MP + 8 MP",
+            "name": "Celular Samsung Galaxy S20FE 128 GB Azul",
+            "operatingSystem": "Android",
+            "price": "$ 86.999",
+            "processor": "Octa-Core 2.7 GHz",
+            "ramMemory": "6 GB",
+            "screenSize": "6.5",
+            "speedProcessor": "Octa-Core 2.7 GHz",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-samsung-galaxy-s20fe-128-gb-azul-781367/"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "48 Mp + 8 Mp + 2 Mp + 2 Mp",
+            "name": "Celular Samsung Galaxy A21s 128 GB Negro",
+            "operatingSystem": "Android",
+            "price": "$ 39.999",
+            "processor": "Octa Core",
+            "ramMemory": "Micro SD",
+            "screenSize": "6.5",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-samsung-galaxy-a21s-128-gb-negro-781620/"
+    },
+    {
+        "properties": {
+            "battery": "4000 mAh",
+            "mainCamera": "48MP, Macro 2 MP",
+            "name": "Celular Motorola E7 32 GB Gris",
+            "operatingSystem": "Android",
+            "price": "$ 21.999",
+            "processor": "Octa Core",
+            "ramMemory": "2 GB",
+            "screenSize": "6.5",
+            "storageMemory": "32 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-motorola-e7-32-gb-gris-781622/"
+    },
+    {
+        "properties": {
+            "battery": "4000 mAh",
+            "mainCamera": "48MP + 8MP + 5 MP + 2MP",
+            "name": "Celular LG K61 128 GB Gris",
+            "operatingSystem": "Android",
+            "price": "$ 31.999",
+            "processor": "Octa Core 2.3GHz",
+            "ramMemory": "4 GB",
+            "screenSize": "6.5",
+            "speedProcessor": "Octa Core 2.3GHz",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-lg-k61-128-gb-gris-781522/"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "64.0 MP + 12.0 MP + 5.0 MP + 8.0 MP",
+            "name": "Celular Samsung Galaxy A72 128 GB Negro",
+            "operatingSystem": "Android",
+            "price": "$ 66.999",
+            "processor": "Octa Core 2.3GHz, 1.8GHz",
+            "ramMemory": "6 GB",
+            "screenSize": "6.7",
+            "speedProcessor": "Octa Core 2.3GHz, 1.8GHz",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-samsung-galaxy-a72-128-gb-negro-781286/"
+    },
+    {
+        "properties": {
+            "battery": "4500 mAh",
+            "mainCamera": "64.0 MP + 12.0 MP + 5.0 MP + 5.0 MP",
+            "name": "Celular Samsung Galaxy A52 Negro",
+            "operatingSystem": "Android",
+            "price": "$ 58.999",
+            "processor": "Octa Core 2.3GHz, 1.8GHz",
+            "ramMemory": "6 GB",
+            "screenSize": "6.3",
+            "speedProcessor": "Octa Core 2.3GHz, 1.8GHz",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-samsung-galaxy-a52-negro-781556/"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "48.0 MP + 5.0 MP + 2.0 MP + 2.0 MP",
+            "name": "Celular Samsung Galaxy A12 64 GB Negro",
+            "operatingSystem": "Android",
+            "price": "$ 30.999",
+            "processor": "Octa-Core",
+            "ramMemory": "4 GB",
+            "screenSize": "6.5",
+            "storageMemory": "64 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-samsung-galaxy-a12-64-gb-negro-781391/"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "64.0 MP + 8.0 MP + 5.0 MP + 5.0 MP",
+            "name": "Celular Samsung Galaxy A32 128 GB Azul",
+            "operatingSystem": "Android",
+            "price": "$ 44.999",
+            "processor": "Octa Core 2GHz, 1.8GHz",
+            "ramMemory": "4 GB",
+            "screenSize": "6.4",
+            "speedProcessor": "Octa Core 2GHz, 1.8GHz",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-samsung-galaxy-a32-128-gb-azul-781753/"
+    },
+    {
+        "properties": {
+            "battery": "4000 mAh",
+            "mainCamera": "13 MP",
+            "name": "Celular Alcatel 1V Plus 32 GB Negro",
+            "operatingSystem": "Android",
+            "price": "$ 16.499",
+            "processor": "Octa-Core",
+            "ramMemory": "2 GB",
+            "screenSize": "6.2",
+            "storageMemory": "32 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-alcatel-1v-plus-32-gb-negro-781699/"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "64MP+16MP+2MP",
+            "name": "Celular Motorola G100 128 GB Azul",
+            "operatingSystem": "Android",
+            "price": "$ 89.999",
+            "processor": "Snapdragon 870",
+            "ramMemory": "8 GB",
+            "screenSize": "6.7",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-motorola-g100-128-gb-azul-781517/"
+    },
+    {
+        "properties": {
+            "battery": "4000mAh",
+            "mainCamera": "13/5/2/2 MP",
+            "name": "Celular LG K42 64 GB Gris",
+            "operatingSystem": "Android 10",
+            "price": "$ 24.999",
+            "processor": "Octa Core 2.0GHz",
+            "ramMemory": "3 GB",
+            "speedProcessor": "Octa Core 2.0GHz",
+            "storageMemory": "64 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-lg-k42-64-gb-gris-781766/"
+    },
+    {
+        "properties": {
+            "battery": "4.000mAh",
+            "mainCamera": "48 + 5 + 5 MP",
+            "name": "Celular LG K71 128 GB Titanium",
+            "operatingSystem": "Android 10",
+            "price": "$ 36.999",
+            "processor": "Octa Core 2.3GHz",
+            "ramMemory": "4 GB",
+            "screenSize": "6.8",
+            "speedProcessor": "Octa Core 2.3GHz",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-lg-k71-128-gb-titanium-781583/"
+    },
+    {
+        "properties": {
+            "battery": "3000 mAh",
+            "mainCamera": "13 MP + 2MP",
+            "name": "Celular LG K22 Plus 64 GB Titanium",
+            "operatingSystem": "Android 10",
+            "price": "$ 21.999",
+            "processor": "1.3 GHz Quad",
+            "ramMemory": "3 GB",
+            "screenSize": "6.2",
+            "speedProcessor": "1.3 GHz Quad",
+            "storageMemory": "64 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-lg-k22-plus-64-gb-titanium-781526/"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "64 Mp + 8 Mp + 5 Mp + 2 Mp",
+            "name": "Celular Motorola G60S 128GB Aqua",
+            "operatingSystem": "Android",
+            "price": "$ 45.999",
+            "processor": "Octa Core 1.8 Ghz",
+            "ramMemory": "6 GB",
+            "screenSize": "6.8",
+            "speedProcessor": "Octa Core 1.8 Ghz",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-motorola-g60s-128gb-aqua-781577/"
+    },
+    {
+        "properties": {
+            "battery": "4300 mAh",
+            "mainCamera": "48 + 8 + 5 mpx",
+            "name": "Celular LG Velvet 128 GB Gris + Auriculares Tone FN4",
+            "operatingSystem": "Android 10",
+            "price": "$ 69.999",
+            "processor": "Qualcomm Snapdragon 845 - 2.84Ghz Octa",
+            "ramMemory": "6 GB",
+            "screenSize": "6.8",
+            "speedProcessor": "Qualcomm Snapdragon 845 - 2.84Ghz Octa",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-lg-velvet-128-gb-gris-auriculares-tone-fn4--781615/"
+    },
+    {
+        "properties": {
+            "battery": "5000 mAh",
+            "mainCamera": "48 MP + 8 MP + 2 MP + 2 MP",
+            "name": "Celular Samsung Galaxy A22 128 GB Blanco",
+            "operatingSystem": "Android",
+            "price": "$ 39.999",
+            "processor": "Octa-Core 2GHz, 1.8GHz",
+            "ramMemory": "4 GB",
+            "screenSize": "6.4",
+            "speedProcessor": "Octa-Core 2GHz, 1.8GHz",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-samsung-galaxy-a22-128-gb-blanco-781566/"
+    },
+    {
+        "properties": {
+            "battery": "3000 mAh",
+            "mainCamera": "13MP / Macro 2MP",
+            "name": "Celular LG K22 32 GB Azul",
+            "operatingSystem": "Android",
+            "price": "$ 19.999",
+            "processor": "Quad-core 1.3GHz",
+            "ramMemory": "2 GB",
+            "screenSize": "6.2",
+            "speedProcessor": "Quad-core 1.3GHz",
+            "storageMemory": "32 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-lg-k22-32-gb-azul-781510/"
+    },
+    {
+        "properties": {
+            "battery": "2460mAh",
+            "mainCamera": "13MP",
+            "name": "Celular Alcatel 1V 16 GB Metallic Black",
+            "operatingSystem": "Android",
+            "price": "$ 13.999",
+            "processor": "Octa Core",
+            "ramMemory": "2 GB",
+            "screenSize": "5.5",
+            "storageMemory": "16 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-alcatel-1v-16-gb-metallic-black-781268/"
+    },
+    {
+        "properties": {
+            "battery": "165.78 mm x 76.46 mm x 8.25 mm",
+            "mainCamera": "Cuádruple: Principal 13MP/Super Gran Angular 5MP de 115º/Macro 2MP/Sensor de Profundidad 2MP",
+            "name": "Celular Libre LG K41S Titanium",
+            "operatingSystem": "Android 10",
+            "price": "$ 23.999",
+            "processor": "Octa Core 2.0GHz",
+            "ramMemory": "3 GB",
+            "screenSize": "6.5",
+            "speedProcessor": "Octa Core 2.0GHz",
+            "storageMemory": "32 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-libre-lg-k41s-titanium-781528/"
+    },
+    {
+        "properties": {
+            "battery": "4000 mAh",
+            "mainCamera": "13 MP + 2 MP + 2 MP",
+            "name": "Celular Alcatel 3H 64 GB Negro",
+            "operatingSystem": "Android",
+            "price": "$ 22.999",
+            "processor": "Octa-Core: 4xCortex-A53 @1.8GHz+4xCortex-A53 @1.5GHz",
+            "ramMemory": "3 GB",
+            "screenSize": "6.5",
+            "speedProcessor": "Octa-Core: 4xCortex-A53 @1.8GHz+4xCortex-A53 @1.5GHz",
+            "storageMemory": "64 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-alcatel-3h-64-gb-negro-781533/"
+    },
+    {
+        "properties": {
+            "battery": "Li-Ion 4500",
+            "mainCamera": "64 MP + 8 MP + 16 MP",
+            "name": "Motorola Edge",
+            "operatingSystem": "Android 10",
+            "price": "$99.999",
+            "processor": "Octa Core 2.3",
+            "ramMemory": "6GB",
+            "screenSize": "6.67",
+            "speedProcessor": "Octa Core 2.3",
+            "storageMemory": "128GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/motorola-edge.html"
+    },
+    {
+        "properties": {
+            "battery": "Li-Ion 4000",
+            "mainCamera": "48 MP + 2 MP",
+            "name": "Motorola Moto E7",
+            "operatingSystem": "Android 10",
+            "price": "$20.499",
+            "processor": "Octa Core 2.0",
+            "ramMemory": "2GB",
+            "screenSize": "6.5",
+            "speedProcessor": "Octa Core 2.0",
+            "storageMemory": "32GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://tienda.movistar.com.ar/motorola-moto-e7.html"
+    },
+    {
+        "properties": {
+            "battery": "4500 mAh",
+            "mainCamera": "64 MPx",
+            "name": "Celular Smartphone 6,67\" Motorola Edge 6GB 128GB 64MPx Liberado Gris Midnight",
+            "price": "$ 93.499",
+            "ramMemory": "6 GB",
+            "storageMemory": "128 GB"
+        },
+        "type": "http://dbpedia.org/ontology/MobilePhone",
+        "url": "https://www.fravega.com/p/celular-smartphone-6-67-motorola-edge-6gb-128gb-64mpx-liberado-gris-midnight-20008824/"
+    }
+]
