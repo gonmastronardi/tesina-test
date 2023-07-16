@@ -19,7 +19,7 @@ export default class FieldNormalizer {
   //it returns the text modified.
   deleteIfExists(aValue, wordsToDelete){
     if(!aValue){
-      return "";
+      throw new Error('Falta el parámetro requerido');
     }
     let result = aValue;
       for (var k in wordsToDelete) {
