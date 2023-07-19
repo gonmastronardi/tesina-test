@@ -19,10 +19,11 @@ export default class CleanNormalizer extends FieldNormalizer {
 
   }
  //check if the words exists in the string and delete the corresponding ones.
-  normalize(anObject, attribute) {
+  normalize(anObject, attribute, optionalField) {
     let name = anObject[attribute];
     name = this.deleteIfExists(name, this.wordsToDelete);
     anObject[attribute] = name;
+    console.log(name)
   }
 
 

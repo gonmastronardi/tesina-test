@@ -2,11 +2,12 @@ import FieldNormalizer from "./FieldNormalizer.js";
 
 export default class MonetaryAmountNormalizer extends FieldNormalizer {
   
-  normalize(anObject, attribute) {
+  normalize(anObject, attribute, optionalField) {
     let amount = anObject[attribute];
     this.debugField(`Price: ${amount}`);
     amount = this.getNormalizedAmount(amount);
     this.debugInfo(`Normalized price: ${amount}`);
+    console.log(amount);
     anObject[attribute] = amount;
   }
 

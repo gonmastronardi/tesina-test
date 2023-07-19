@@ -16,7 +16,8 @@ let unusefulWordsForName = [
 //configuration for each field of the JSON object to normalize
 var configuration = {
     name: new normalizers.CleanNormalizer(unusefulWordsForName),
-    price:  new normalizers.MonetaryAmountNormalizer()
+    price:  new normalizers.MonetaryAmountNormalizer(),
+
 };
 
 export default configuration;

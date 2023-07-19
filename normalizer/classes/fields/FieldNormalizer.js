@@ -11,7 +11,7 @@ export default class FieldNormalizer {
   }
 
   //it must be implemented by the subclasses
-  normalize(anObject, attribute) {
+  normalize(anObject, attribute, optionalField) {
     throw new TypeError("Must override method");
   }
 
@@ -19,7 +19,7 @@ export default class FieldNormalizer {
   //it returns the text modified.
   deleteIfExists(aValue, wordsToDelete){
     if(!aValue){
-      throw new Error('Falta el parámetro requerido');
+      return ''
     }
     let result = aValue;
       for (var k in wordsToDelete) {
