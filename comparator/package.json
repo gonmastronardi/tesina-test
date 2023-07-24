@@ -1,0 +1,22 @@
+{
+  "name": "js-degreesimilarity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "jaro-winkler": "^0.2.8",
+    "jsonfile": "^6.1.0",
+    "string-similarity": "^3.0.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
