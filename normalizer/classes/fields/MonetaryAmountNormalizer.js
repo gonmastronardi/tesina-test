@@ -7,7 +7,7 @@ export default class MonetaryAmountNormalizer extends FieldNormalizer {
     this.debugField(`Price: ${amount}`);
     amount = this.getNormalizedAmount(amount);
     this.debugInfo(`Normalized price: ${amount}`);
-    console.log(amount);
+    //console.log(amount);
     anObject[attribute] = amount;
   }
 

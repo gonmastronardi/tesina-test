@@ -12,7 +12,7 @@ export default class ObjectNormalizer {
 
       // console.log(aMapOfObjects[key].properties);
       aMapOfObjects[key] = this.normalizeObject(aMapOfObjects[key].properties);
-      console.log("Object " + key + ' normalized');
+      //console.log("Object " + key + ' normalized');
     }
     return aMapOfObjects;
   }

@@ -23,7 +23,7 @@ export default class CleanNormalizer extends FieldNormalizer {
     let name = anObject[attribute];
     name = this.deleteIfExists(name, this.wordsToDelete);
     anObject[attribute] = name;
-    console.log(name)
+    //console.log(name)
   }
 
 

@@ -17,7 +17,7 @@ let unusefulWordsForName = [
 var configuration = {
     name: new normalizers.CleanNormalizer(unusefulWordsForName),
     price:  new normalizers.MonetaryAmountNormalizer(),
-
+    operatingSystem: new normalizers.OSNormalizer(["ANDROID", "IOS"], 'operatingSystemName'),
 };
 
 export default configuration;
