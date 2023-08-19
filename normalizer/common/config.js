@@ -19,6 +19,7 @@ var configuration = {
     price:  new normalizers.MonetaryAmountNormalizer(),
     operatingSystem: new normalizers.OSNormalizer(["ANDROID", "IOS"], 'operatingSystemName'),
     mainCamera: new normalizers.mainCameraNormalizer('maxMegapixels'),
+    speedProcessor: new normalizers.speedProcessorNormalizer('speedProcessorMhz'),
 };
 
 export default configuration;
