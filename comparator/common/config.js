@@ -8,10 +8,9 @@ var configuration = {
     mainCamera: fieldComparators.jaroWinklerSimilarityCalculator,
     price: fieldComparators.jaroWinklerSimilarityCalculator,
     battery: fieldComparators.jaroWinklerSimilarityCalculator,
-    processor: fieldComparators.jaroWinklerSimilarityCalculator,
     screenSize: fieldComparators.jaroWinklerSimilarityCalculator,
     speedProcessor: fieldComparators.jaroWinklerSimilarityCalculator,
-    operatingSystem: fieldComparators.jaroWinklerSimilarityCalculator
+    operatingSystem: fieldComparators.levensteinComparator,
   };
 
   export default configuration;
