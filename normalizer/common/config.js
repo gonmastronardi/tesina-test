@@ -20,6 +20,7 @@ var configuration = {
     operatingSystem: new normalizers.OSNormalizer(["ANDROID", "IOS"], 'operatingSystemName'),
     mainCamera: new normalizers.mainCameraNormalizer('maxMegapixels'),
     speedProcessor: new normalizers.speedProcessorNormalizer('speedProcessorMhz'),
+    ramMemory: new normalizers.ramMemoryNormalizer('ramMemoryGB'),
 };
 
 export default configuration;
