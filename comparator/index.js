@@ -6,11 +6,12 @@
 
 
 import fs from "fs-extra";
-import AverageSimilarityCalculator from "./src/classes/integrationStrategies/AverageSimilarityCalculator.js";
+// import AverageSimilarityCalculator from "./src/classes/integrationStrategies/CharSimilarityCalculator.js";
+import CharSimilarityCalculator from "./src/classes/integrationStrategies/CharSimilarityCalculator.js";
 import jsonFile from "jsonfile";
 import configuration from "./common/config.js";
 
-const averageSimilarityCalculator = new AverageSimilarityCalculator(
+const charSimilarityCalculator = new CharSimilarityCalculator(
   configuration
 );
 
@@ -31,7 +32,6 @@ let aThreshold = myArgs[3];
 //otherwise is the object
 
 inputFile = jsonFile.readFileSync(inputFile);
-
 if (isNaN(inputObject)) {
   inputObject = jsonFile.readFileSync(inputObject);
 } else {
@@ -43,10 +43,11 @@ if (isNaN(inputObject)) {
 }
 
 //compares a json object against a file with multiple objects
-averageSimilarityCalculator
+charSimilarityCalculator
   .getSimilarityMap(inputObject, inputFile, aThreshold)
-  .then((result) =>
+  .then((result) =>{
     fs.writeFileSync(outputFile, JSON.stringify([...result]), "utf-8")
+  }
   )
   .catch((err) => console.error(err));
 
