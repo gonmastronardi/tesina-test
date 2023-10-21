@@ -7,18 +7,25 @@ export default class CharSimilarityCalculator extends SimpleObjectSimilarityCalc
   }
 
 
-  async GetNumberChars(aString){
-    console.log(`palabra ${aString}`)
+  async GetNumberWords(aString){
+    // console.log(`palabra ${aString}`)
+    // console.log(aString.split(" "))
     const count = {}
-    for(var char of aString){
-      if(count[char]) (count[char] || 0 ) + 1;
+    for(var word of aString.split(" ")){
+      // console.log("word: ", word)
+      // console.log("count: ", count)
+      const parseWord = word.toLowerCase()
+      if(Object.keys(count).includes(parseWord)) 
+        count[parseWord]++;
+      else
+        count[parseWord] = 1
     }
-    console.log(`count ${Object.entries(count)}`)
+    // console.log(`count ${Object.entries(count)}`)
     const resul  = Object.entries(count).map(([k,v])=> [k,1/v])
-    console.log(`resul: ${resul}`)
-    const response = Object.values(resul).reduce((prev,curr)=> parseInt(prev)+parseInt(curr),0);
-    console.log(`resultado :  ${response}`)
-    return response
+    // console.log(`resul: ${resul}`)
+    const response = resul.map(([k,v])=>v).reduce((prev,curr)=> parseFloat(prev)+parseFloat(curr),0);
+    // console.log(`resultado :  ${response}`)
+    return Promise.resolve(response)
   }
 
 
@@ -28,15 +35,17 @@ export default class CharSimilarityCalculator extends SimpleObjectSimilarityCalc
   async getSimilarity(aString, anotherString) {
     if (((aString&&anotherString)!== undefined)){
       //do stuff if query is defined and not null
-      let a;
-      let b;
-      this.GetNumberChars(aString).then((data)=>{console.log(data)}).catch((e)=>console.log('error a'))
-      this.GetNumberChars(anotherString).then((data)=>{console.log(data)}).catch((e)=>console.log('error b'))
-      // const b = Promise.resolve(this.GetNumberChars(anotherString))
-      console.log(`a: ${a}`)
-      console.log(`b: ${b}`)
-      return a / b
-
+      this.GetNumberWords(aString)
+      .then((data_A)=>{
+        this.GetNumberWords(anotherString)
+        .then((data_B)=>{
+          // console.log(`a: ${data_A}`)
+          // console.log(`b: ${data_B}`)
+          return Promise.resolve(data_A / data_B)
+        })
+        .catch((e)=>console.log('error b'))
+      })
+      .catch((e)=>console.log('error a'))
     } else {
       return 0
     }
