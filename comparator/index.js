@@ -7,11 +7,11 @@
 
 import fs from "fs-extra";
 // import AverageSimilarityCalculator from "./src/classes/integrationStrategies/CharSimilarityCalculator.js";
-import CharSimilarityCalculator from "./src/classes/integrationStrategies/CharSimilarityCalculator.js";
+import FieldSimilarityWordCalculator from "./src/classes/integrationStrategies/FieldSimilarityWordCalculator.js";
 import jsonFile from "jsonfile";
 import configuration from "./common/config.js";
 
-const charSimilarityCalculator = new CharSimilarityCalculator(
+const fieldSimilarityWordCalculator = new FieldSimilarityWordCalculator(
   configuration
 );
 
@@ -43,7 +43,7 @@ if (isNaN(inputObject)) {
 }
 
 //compares a json object against a file with multiple objects
-charSimilarityCalculator
+fieldSimilarityWordCalculator
   .getSimilarityMap(inputObject, inputFile, aThreshold)
   .then((result) =>{
     fs.writeFileSync(outputFile, JSON.stringify([...result]), "utf-8")

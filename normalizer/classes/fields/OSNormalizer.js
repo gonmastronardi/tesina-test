@@ -11,10 +11,9 @@ export default class OSNormalizer extends FieldNormalizer {
   normalize(anObject, key) {
     let os = anObject[key];
     if (os){
-        os = os.toLowerCase();
-        if (os.includes(this.OSTarget)){
-            anObject[this.optionalField] = this.OSTarget;
-        }
+        os = os.toLowerCase().split(" ");
+        let op = os.filter(o => this.OSTarget.map(word => word.toLowerCase()).includes(o));
+        anObject[this.optionalField] = op[0];
       }
     }
 };

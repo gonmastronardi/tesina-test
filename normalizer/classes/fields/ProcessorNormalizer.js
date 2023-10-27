@@ -8,13 +8,10 @@ export default class ProcessorNormalizer extends FieldNormalizer {
     this.optionalField = optionalField;
   }
  //check if the Processor exists in the string and save them isolated on a new field.
-  normalize(anObject, key) {
-    let processor = anObject[key];
-    if (processor){
-        processor = processor.toLowerCase();
-        if (processor.includes(this.ProcesorTarget)){
-            anObject[this.optionalField] = this.ProcesorTarget;
-        }
+  normalize(anObject) {
+    const content = Object.values(anObject).map((p)=>p.toLowerCase()).reduce((prev,curr)=>prev+curr,"")
+    if (content.includes(this.ProcesorTarget)){
+        anObject[this.optionalField] = this.ProcesorTarget;
       }
     }
 };

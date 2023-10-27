@@ -1,6 +1,6 @@
 import JaroWinklerSimilarityCalculator from "./JaroWinklerSimilarityCalculator.js";
-import CharSimilarityCalculator from "./VowelsCalculator.js";
+import WordSimilarityCalculator from "./WordSimilarityCalculator.js";
 export default {
   jaroWinklerSimilarityCalculator: new JaroWinklerSimilarityCalculator(),
-  charSimilarityCalculator: new CharSimilarityCalculator()
+  charSimilarityCalculator: new WordSimilarityCalculator()
 };

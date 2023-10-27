@@ -18,9 +18,9 @@ var configuration = {
     name: new normalizers.CleanNormalizer(unusefulWordsForName),
     price:  new normalizers.MonetaryAmountNormalizer(),
     processor: new normalizers.ProcessorNormalizer("Snapdragon", "processor"),
-    batery: new normalizers.BatteryNormalizer(5000,"battery"),
-    os: new normalizers.OSNormalizer("Andoid","operativeSystem"),
-    camera: new normalizers.MainCameraNormalizer("100","mainCamera"),
+    batery: new normalizers.BatteryNormalizer("battery"),
+    os: new normalizers.OSNormalizer(["Android", "IOS"],"operativeSystem"),
+    camera: new normalizers.MainCameraNormalizer("mainCamera"),
 
 };
 
